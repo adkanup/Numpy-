@@ -13,3 +13,14 @@
 *To change the shape of array
 * Vstack,hstack,column_stack
 * Intersection and difference 
+
+-------------------------------------------------------------------------
+#file:numpy maths operation.ipynb
+*Add
+*Sub
+*mul
+*divison
+*mean 
+*median
+*standard devision
+---------------------------------------------------------------------------
